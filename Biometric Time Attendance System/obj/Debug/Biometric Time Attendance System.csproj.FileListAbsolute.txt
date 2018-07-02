@@ -1,0 +1,116 @@
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Form1.resources
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Properties.Resources.resources
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csproj.GenerateResource.Cache
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPDevNET.dll
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPEngNET.dll
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPGuiNET.dll
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPShrNET.dll
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPVerNET.dll
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\documents\visual studio 2015\Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmFingerReg.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Properties.Resources.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csproj.GenerateResource.Cache
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPDevNET.dll
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPEngNET.dll
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPGuiNET.dll
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPShrNET.dll
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPVerNET.dll
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\arjay backups\desktoppc2\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\arjay\Desktop\arjay backups\desktoppc2\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\arjay backups\desktoppc2\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.pdb
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPDevNET.dll
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPEngNET.dll
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPGuiNET.dll
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPShrNET.dll
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPVerNET.dll
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmFingerReg.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmMain.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Properties.Resources.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csproj.GenerateResource.Cache
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPDevNET.dll
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPEngNET.dll
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPGuiNET.dll
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPShrNET.dll
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPVerNET.dll
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmFingerReg.resources
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmMain.resources
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Properties.Resources.resources
+C:\Users\arjay\Desktop\arjay backups\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csproj.GenerateResource.Cache
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmMain.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmManual.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmBranch.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmCompany.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmDepartment.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmEmployeeReg.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmHoliday.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmLocation.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmTimeLimit.resources
+C:\Users\arjay\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmUserAccount.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmBranch.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmCompany.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmDepartment.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmEmployeeReg.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmHoliday.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmLocation.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmManual.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmTimeLimit.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmUserAccount.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPDevNET.dll
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPEngNET.dll
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPGuiNET.dll
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPShrNET.dll
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\DPFPVerNET.dll
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmBranch.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmCompany.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmDepartment.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmEmployeeReg.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmFingerReg.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmHoliday.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmLocation.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmLogin.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmMain.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmManual.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmTimeLimit.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmUserAccount.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Properties.Resources.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csproj.GenerateResource.Cache
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmEmployeeSearch.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmEmployeeSearch.resources
+C:\Users\ITDept\Desktop\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.frmLogin.resources
+C:\Users\arjay\Desktop\thesis 2015\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric_Time_Attendance_System.Form1.resources
+C:\Users\ACJ\Downloads\C# Projects\Biometric Time Attendance System\Biometric Time Attendance System\bin\Debug\Biometric Time Attendance System.exe.config
+C:\Users\ACJ\Downloads\C# Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.exe
+C:\Users\ACJ\Downloads\C# Projects\Biometric Time Attendance System\Biometric Time Attendance System\obj\Debug\Biometric Time Attendance System.pdb
